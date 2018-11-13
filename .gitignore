@@ -1,2 +1,5 @@
 *.pdf
 *.swp
+.DS_Store
+/bootstrap-3.3.7/*
+LICENSE
